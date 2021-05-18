@@ -445,6 +445,24 @@ body {
     transition: all 0.3s ease-in-out;
 }
 
+.s7 .address:hover > i
+{
+	background: #0563bb;
+	color:#eef7ff;
+}
+
+.s7 .email:hover > i
+{
+	background: #0563bb;
+	color:#eef7ff;
+}
+
+.s7 .phone:hover > i
+{
+	background: #0563bb;
+	color:#eef7ff;
+}
+
 .s7 .s7label
 {
 	padding: 0 0 0 60px;
