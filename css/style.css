@@ -377,6 +377,11 @@ body {
 	margin-bottom: 20px;
 	font-family: "Raleway", sans-serif;
 }
+.s6-card-image
+{
+	width: 170px;
+	height: 80px;
+}
 
 .s6-card-image2
 {
