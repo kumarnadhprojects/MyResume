@@ -389,6 +389,12 @@ body {
 	height: 80px;
 }
 
+.s6-card-image3
+{
+	width: 107px;
+    height: 40px;
+}
+
 .s6 .card
 {
 	border-radius: 20px;
@@ -399,6 +405,10 @@ body {
 .s6 .card:hover
 {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.s6-card-font-size{
+	font-size: 28px;
 }
 
 .s6 a
